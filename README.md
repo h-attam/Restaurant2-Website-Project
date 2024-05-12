@@ -10,18 +10,5 @@ Bu depo, bir restoranın çevrimiçi varlığını sağlayan, responsive bir web
 
 ![](/images/restaurantwebsitegif.gif)
 
-# Ekran Görüntüleri 
 
-![](/images/Ekran%20Alıntısı1.PNG)
 
-![](/images/Ekran%20Alıntısı2.PNG)
-
-![](/images/Ekran%20Alıntısı3.PNG)
-
-![](/images/Ekran%20Alıntısı4.PNG)
-
-![](/images/Ekran%20Alıntısı5.PNG)
-
-![](/images/Ekran%20Alıntısı6.PNG)
-
-![](/images/Ekran%20Alıntısı7.PNG)
